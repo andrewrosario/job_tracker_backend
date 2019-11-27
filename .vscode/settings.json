@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/Users/andrewrosario/Development/code/Python/job_tracker/job_tracker_backend/env/bin/python3",
+    "python.pythonPath": "/Users/andrewrosario/Development/code/Python/job_tracker/job_tracker_backend/job_tracker_env/bin/python3.8",
     "git.ignoreLimitWarning": true
 }
