@@ -1,6 +1,8 @@
 astroid==2.3.3
 cachetools==3.1.1
+dj-database-url==0.5.0
 Django==2.2.7
+django-heroku==0.3.1
 djangorestframework==3.10.3
 google-api-python-client==1.7.11
 google-auth==1.7.1
@@ -18,4 +20,5 @@ rsa==4.0
 six==1.13.0
 sqlparse==0.3.0
 uritemplate==3.0.0
+whitenoise==4.1.4
 wrapt==1.11.2
