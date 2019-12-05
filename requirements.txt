@@ -1,7 +1,8 @@
+asgiref==3.2.3
 astroid==2.3.3
 cachetools==3.1.1
 dj-database-url==0.5.0
-Django==2.2.7
+Django==3.0
 django-heroku==0.3.1
 djangorestframework==3.10.3
 google-api-python-client==1.7.11
